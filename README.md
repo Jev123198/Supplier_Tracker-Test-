@@ -21,5 +21,4 @@ so the company knows who to trust and who needs improvement.
 - [ ] Add more months of data to see longer trends
 - [ ] Create a Power BI dashboard from this data
 - [ ] Learn Python (Pandas) to automate the data cleaning
-- [ ] Add a prediction model: which supplier is likely to be late next month?
 
