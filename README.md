@@ -10,8 +10,7 @@ I built this to learn how to analyze real business data using Excel and SQL.
 
 Imagine you work at a company that buys goods from several suppliers.
 
-This project helps **track each supplier** based on how well they perform 
-so the company knows who to trust and who needs improvement.
+Store, manage, and analyze supplier data.
 
 ---
 
